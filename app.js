@@ -24,7 +24,7 @@ const path = require('path')
 // // +++++++++++++++ . +++++++++++++++ . +++++++++++++++ . +++++++++++++++ //
 
 // function createConnection() {
-//    mongoose.connect('mongodb+srv://c4c-pac-man:VUoMnRKE9XhU7xFv@cluster0.azeuqn4.mongodb.net/pac-man', {
+//    mongoose.connect('X', {
 //          useNewUrlParser: true
 //       })
 //       .then(() => {
